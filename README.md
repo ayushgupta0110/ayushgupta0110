@@ -20,11 +20,8 @@
 <a href="https://stackoverflow.com/users/14786373" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14786373" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ayushgupta0110" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ayushgupta0110" height="30" width="40" /></a>
-<a href="https://fb.com/ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayushgupta0110" height="30" width="40" /></a>
 <a href="https://instagram.com/i.ayush.gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i.ayush.gupta" height="30" width="40" /></a>
-<a href="https://dribbble.com/ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ayushgupta0110" height="30" width="40" /></a>
 <a href="https://medium.com/@ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayushgupta0110" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushgupta0110" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ayushgupta0110" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayushgupta0110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="ayushgupta0110" height="30" width="40" /></a>
 </p>
