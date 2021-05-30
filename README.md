@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta0110" alt="ayushgupta0110" /></a> </p>
 
-- 🌱 I’m currently learning **React.js in web Development and participant of a bootcamp on Data Science.**
+- 🌱 I’m currently learning **DSA, React.js in web Development and making beginner friendly projects using react.**
 
 - 💬 Ask me about **C++, Java, Python, HTML5, CSS, JavaScript, React.js, Git and Github, Backend(MongoDB, Node.js, Express.js, MySQL)**
 
