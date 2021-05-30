@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js in web Development and participant of a bootcamp on Data Science.**
 
-- 💬 Ask me about **C++,Python,HTML5,CSS, Backend(MongoDB, Node.js, Express.js, React.js, MySQL)**
+- 💬 Ask me about **C++, Java, Python, HTML5, CSS, JavaScript, React.js, Git and Github, Backend(MongoDB, Node.js, Express.js, MySQL)**
 
 - 📫 How to reach me **ayushgupta747492@gmail.com**
 
