@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Ayush</h1>
-<h3 align="center">Exploring the tech-stuff out there!!</h3>
+<h3 align="center">Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgupta0110&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta0110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta0110" alt="ayushgupta0110" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, React.js in web Development and making beginner friendly projects using react.**
+- 🌱 I’m currently learning **DSA, React.js in web Development and making beginner friendly projects using react and exploring Blockchain and Web3 domain.**
 
-- 💬 Ask me about **C++, Java, Python, HTML5, CSS, JavaScript, React.js, Git and Github, Backend(MongoDB, Node.js, Express.js, MySQL)**
+- 💬 Ask me about **C++, Java, Python, HTML5, CSS, JavaScript, React.js, Git and Github, Backend(MongoDB, Node.js, Express.js, Flask, MySQL)**
 
 - 📫 How to reach me **ayushgupta747492@gmail.com**
 
