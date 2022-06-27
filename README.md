@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushgupta0110" alt="ayushgupta0110" /></a> </p>
 
-- 🔭 I’m currently working on [Musixverse](https://github.com/Musixverse)
+- 🔭 I’m currently building [Musixverse](https://github.com/Musixverse) and [GetIntoWeb3](https://discord.gg/dk89EBmtzu)
 
 - 🌱 I’m currently learning **Nextjs, tailwindcss v3, Blockchain dev(Solidity, moralis, Hardhat etc.)**
 
